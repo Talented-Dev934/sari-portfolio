@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/140221270/261695020-61a17c2f-b790-434e-b8c4-d85a398a4830.png" width="100" />
+  <img alt="Logo" src="/public/favicon.ico" width="100" />
 </div>
 <h1 align="center">
   sari-purwaningsih-portfolio.netlify.app - v1
